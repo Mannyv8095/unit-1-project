@@ -5,7 +5,7 @@ present the game board
 6 | 7 | 8
 
 one player chooses a box to put his mark
-the computer chooses another box to put his mark
+player two chooses another box to put his mark
 
 if player has (i && i+1 && i+2) or (i%3 == 0) or (i%3 == 1) or (i%3 == 2) or (i%4 == 0) or (i%2 == 0)
 	then player wins
