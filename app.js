@@ -92,7 +92,7 @@ btnRef.forEach((element) => {
       element.disabled = true;
     } else {
       xTurn = true;
-      //Display Y
+      //Display O
       element.innerText = "O";
       element.disabled = true;
     }
